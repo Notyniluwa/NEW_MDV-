@@ -1,12 +1,12 @@
 {
   "name": "Queen_Anju",
   "version": "1.0.0",
-  "description": "A Simple WhatsApp bot created By King-Rashmika",
+  "description": "thi is multidevice whatsapp bot creat by cyber jester",
   "main": "queen.js",
   "scripts": {
-    "start": "pm2 start queen.js --deep-monitoring --attach --name Queen_Anju",
-    "stop": "pm2 stop Queen_Anju",
-    "restart": "pm2 restart Queen_Anju"
+    "start": "pm2 start queen.js --deep-monitoring --attach --name dizer_md",
+    "stop": "pm2 stop dizer_md",
+    "restart": "pm2 restart dizer_md"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "6.6.0",
